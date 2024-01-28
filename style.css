@@ -1,0 +1,27 @@
+/* CSS Variables taken from style-guide.md */
+
+:root {
+    --mobile-size: 375px;
+    --desktop-size: 1440px;
+
+    --clr-primary-200: hsl(276, 100%, 81%);
+    --clr-primary-300: hsl(276, 55%, 52%);
+    --clr-primary-400: hsl(271, 15%, 43%);
+    --clr-primary-600: hsl(206, 6%, 79%);
+    --clr-primary-700: hsl(271, 36%, 24%);
+    --clr-primary-800: hsl(270, 7%, 64%);
+
+    --clr-gradient-start: hsl(293, 100%, 63%);
+    --clr-gradient-end: hsl(264, 100%, 61%);
+
+    --clr-secondary-100: hsl(0, 0%, 100%);
+    --clr-secondary-200: hsl(270, 20%, 96%);
+    --clr-secondary-300: hsl(289, 100%, 72%);
+    --clr-secondary-700: hsl(271, 36%, 24%);
+    
+    --ff-main: 'Rubik', sans-serif;
+    --fs-main: 16px;
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-700: 700;
+}
